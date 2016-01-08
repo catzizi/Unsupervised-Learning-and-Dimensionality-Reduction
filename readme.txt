@@ -1,6 +1,23 @@
 All algoriths were performed in MATLAB. 
 Statistics and FastICA packages must be installed.
 
+implement six algorithms. The first two are clustering algorithms:
+
+k-means clustering
+Expectation Maximization
+
+The last four algorithms are dimensionality reduction algorithms:
+
+PCA
+ICA
+Randomized Projections
+The file cwang493 analysis.pdf  contain: 
+
+a discussion of my datasets, and why they're interesting
+explanations of my methods: How did I choose k?
+a description of the kind of clusters that I got.
+analyses of my results. 
+
 The data for the handwritten number identification problem is not included in this folder due to its large file size.
 They should be downloaded from: http://yann.lecun.com/exdb/mnist/
 There are 4 files to download from the site.
